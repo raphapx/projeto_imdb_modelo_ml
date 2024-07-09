@@ -5,6 +5,6 @@ Todo o codigo, tanto do EDA, Tratamentos e Modelos de ML estão no arquivo 'rela
 O arquivo modelo_randomforest.pkl é o modelo importado do pickel e pode ser aberto usando python.
 
 Ferramentas:  
-Python(Bibliotecas usadsa: Pandas, matplotlib, seaborn, numpy e sklearn)
+Python(Bibliotecas usadsa: Pandas, matplotlib, seaborn, numpy e sklearn)  
 Gdrive para armazenamento do arquivo csv
 
